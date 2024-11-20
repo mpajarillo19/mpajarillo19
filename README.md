@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIwMWY5N2FjYjllNmRiMzk1Y2QzY2FiMGY2MDY3MDQ3YjEyMjcxNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif))]()
 <h1 align="center">Hi 👋, I'm Miguel Bryan B. Pajarillo</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIwMWY5N2FjYjllNmRiMzk1Y2QzY2FiMGY2MDY3MDQ3YjEyMjcxNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
