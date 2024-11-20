@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpajarillo19&label=Profile%20views&color=0e75b6&style=flat" alt="mpajarillo19" /> </p>
 
-- 🔭 I’m currently working on <b>Payreto</b> as Web Development - Associate
-
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, MySQL, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, VueJS**
 
 - 📫 How to reach me **migspajarillo19@gmail.com**
 
