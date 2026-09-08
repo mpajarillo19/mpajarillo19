@@ -34,12 +34,17 @@ I build clear, fast, reliable web interfaces. Currently at **ThinkBIT Solutions*
 | [Weather Forecast App](https://github.com/mpajarillo19/weather-app) | Real-time forecasts via OpenWeather ([live](https://simple-weather-web-app.vercel.app)) | [Repo](https://github.com/mpajarillo19/weather-app) · [Live](https://simple-weather-web-app.vercel.app) |
 | [Modern Landing Page](https://github.com/mpajarillo19/modern-landing-page) | Responsive vanilla marketing page ([live](https://modern-landing-page-navy.vercel.app)) | [Repo](https://github.com/mpajarillo19/modern-landing-page) · [Live](https://modern-landing-page-navy.vercel.app) |
 
-Full story: **[my portfolio](<your-vercel-url>)** · [LinkedIn](https://www.linkedin.com/in/mpajarillo19/)
+Full story: **[my portfolio](https://migspajarillo.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/mpajarillo19/)
 
 ## Credentials
 
-- IT Specialist — JavaScript (Certiport, valid to 2027)
-- AWS Educate Intro to Cloud 101 · CCNA Enterprise Networking · CyberOps Associate · DevNet Associate
+- AWS Educate Introduction to Cloud 101 — Training Badge (Amazon Web Services, Jun 2025)
+- CCNA: Enterprise Networking, Security, and Automation (Cisco, Apr 2022)
+- CyberOps Associate (Cisco, Apr 2022)
+- IT Specialist — JavaScript (Certiport, expires Mar 2027)
+- CCNA: Switching, Routing, and Wireless Essentials (Cisco, Dec 2021)
+- DevNet Associate (Cisco, Aug 2021)
+- MTA: Database Fundamentals — Certified 2019 (Microsoft, Nov 2019)
 
 ## Reach me
 
