@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋, I'm Miguel Bryan B. Pajarillo</h1>
-<h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIwMWY5N2FjYjllNmRiMzk1Y2QzY2FiMGY2MDY3MDQ3YjEyMjcxNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+# Miguel Bryan B. Pajarillo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpajarillo19&label=Profile%20views&color=0e75b6&style=flat" alt="mpajarillo19" /> </p>
+**Frontend Developer** — Philippines
 
-- 💬 Ask me about **HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, VueJS**
+I build clear, fast, reliable web interfaces. Currently at **ThinkBIT Solutions** crafting data-driven platforms and dashboards, with a background spanning QA, team leadership, and mentoring.
 
-- 📫 How to reach me **migspajarillo19@gmail.com**
+## Focus
 
-- ⚡ Fun fact **I like playing Online Games.**
+- Frontend UI development across Vue.js, React, Alpine.js, jQuery, and modern JavaScript
+- Data visualization and reporting (Syncfusion, amCharts, REST APIs)
+- Responsive, accessible interfaces with Tailwind CSS and Bootstrap
+- Testing what I ship — QA ownership on every build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mpajarillo19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mpajarillo19" height="30" width="40" /></a>
-<a href="https://fb.com/mpajarillo19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mpajarillo19" height="30" width="40" /></a>
-<a href="https://instagram.com/miguelpajarillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelpajarillo" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpajarillo19&show_icons=true&locale=en&layout=compact" alt="mpajarillo19" /></p>
+## Featured builds
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpajarillo19&show_icons=true&locale=en" alt="mpajarillo19" /></p>
+| Project | What it is | Links |
+| ------- | ---------- | ----- |
+| Process Improvement Platform | DMAIC workflow automation with statistical dashboards (HTML/CSS/JS, Bootstrap, Syncfusion, amCharts) | *NDA — details on request* |
+| E-Learning & Certification Platform | Lean Six Sigma courses with automated certification tracking (Alpine.js, Tailwind, SCORM) | *NDA — details on request* |
+| [Studio Ghibli Movie Browser](https://github.com/mpajarillo19/studio-ghibli) | Vue 3 film browser ([live](https://studio-ghibli-movie-list.vercel.app)) | [Repo](https://github.com/mpajarillo19/studio-ghibli) · [Live](https://studio-ghibli-movie-list.vercel.app) |
+| [Weather Forecast App](https://github.com/mpajarillo19/weather-app) | Real-time forecasts via OpenWeather ([live](https://simple-weather-web-app.vercel.app)) | [Repo](https://github.com/mpajarillo19/weather-app) · [Live](https://simple-weather-web-app.vercel.app) |
+| [Modern Landing Page](https://github.com/mpajarillo19/modern-landing-page) | Responsive vanilla marketing page ([live](https://modern-landing-page-navy.vercel.app)) | [Repo](https://github.com/mpajarillo19/modern-landing-page) · [Live](https://modern-landing-page-navy.vercel.app) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpajarillo19&" alt="mpajarillo19" /></p>
+Full story: **[my portfolio](<your-vercel-url>)** · [LinkedIn](https://www.linkedin.com/in/mpajarillo19/)
+
+## Credentials
+
+- IT Specialist — JavaScript (Certiport, valid to 2027)
+- AWS Educate Intro to Cloud 101 · CCNA Enterprise Networking · CyberOps Associate · DevNet Associate
+
+## Reach me
+
+- Email: **migspajarillo19@gmail.com**
+- Fun fact: I like playing online games. 🎮
